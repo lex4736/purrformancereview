@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Purrformance Review</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- welcome page -->
+    <div class="start_btn"><button> Enter Boss Kitty's Office </button></div>
+    <!-- end of welcome page -->
+
+    <!-- start of intro page -->
+    <div class="info_box">
+        <div class="info-title"></div>
+        <div class="info-list">
+            <h1 class="intro">Welcome to Boss Kitty's Office</h1> <br>You have been working as a junior developer at Kitty CO for a couple of weeks now and you've been called in for your review to evaluate your performance and test your JavaScript knowledge. Boss Kitty will ask you a series of Javasctript related questions and you will be given 10 seconds to answer each question 
+                <p>
+                I hope you came prepared for purrformance review. Good Luck!
+            
+        </div>
+        <div class="buttons">
+            <button class="quit">Exit Quiz</button>
+            <button class="restart">Continue</button>
+        </div>
+    </div>
+    <!-- end of intro page -->
+
+    <!-- Questionaire will start here. Will replace intro page content with questionare script from script js and timer js -->
+    <div class="quiz_box">
+        <header>
+            <div class="title">Puurformance Review </div>
+            <div class="timer">
+                <div class="time_left_txt">Time Left</div>
+                <div class="timer_sec">10</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+                <!-- Here I've inserted question from JavaScript -->
+            </div>
+            <div class="option_list">
+                <!-- Here I've inserted options from JavaScript -->
+            </div>
+        </section>
+<!-- Questionare sections ends here  -->
+
+
+    <!-- Result section / will replace intro page and questionaire with results-->
+    <div class="result_box">
+        <div class="complete_text">You survived the purrformance review</div>
+        <div class="score_text">
+            <!-- Final score content from scipt js will display here -->
+        </div>
+        <div class="buttons">
+            <button class="restart">Try Again </button>
+            <button class="quit">Leave the office </button>
+        </div>
+    </div>
+    <!-- End of Result section -->
+
+   <!--  Start of footer (page counter + buttons) -->
+        <footer>
+            <div class="total_que">
+                <!-- counter content from timer js will display here  -->
+            </div>
+            <button class="next_btn">Next</button>
+        </footer>
+    </div>
+    <!-- End of footer-->
+
+
+    <script src="js/questions.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/timer.js"></script>
+</body>
+</html>
