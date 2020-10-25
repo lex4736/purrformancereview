@@ -40,5 +40,5 @@ Select link below to view live Purrformance Review Quiz
 <img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot2.jpg" alt="Preview of unswered quiz">
 <br><b>Preview of unanswered questions</b><br><hr>
 
-<img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot3.jpg" alt="Preview of incorrect answer selected on quiz"><br>
+<img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot3.jpg" alt="Preview of incorrect answer selected on quiz"><br><br>
 <b>Preview of incorrect answer selected</b><hr>
