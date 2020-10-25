@@ -29,12 +29,16 @@ Developed a Javascript driven multiple choise questionaire/quiz that implements 
 <h3>PREVIEW OF FINAL RESULT</h3>
 <p>
 
-Select link below to view live refactored webpage
-
+Select link below to view live Purrformance Review Quiz 
 <a href="https://lex4736.github.io/purrformancereview/"> Click here to view webpage </a>
 <p>
-See below for screenshot of responsive webpage
+See below for screenshot of Quiz
 <br>
+<b>Main Page</p><br>
 <img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot1.jpg" alt="Code Quiz Main Page">
 <br>
+<b>Preview of unanswered questions</p><br>
 <img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot2.jpg" alt="Code Quiz Questions Sample">
+<br>
+<b>Preview of incorrect answer selected</p><br>
+<img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot3.jpg" alt="Code Quiz Questions Sample">
