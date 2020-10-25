@@ -164,7 +164,7 @@ body{
     font-size: 18px;
     font-weight: 500;
     height: 30px;
-    width: 45px;
+    width: 55px;
     color: #fff;
     border-radius: 5px;
     line-height: 30px;
@@ -403,4 +403,18 @@ footer button.show{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:#778899;
     display: inline-block;
+}
+.highscore {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    z-index: 2;
+    height: 250px;
+    width: 350px;
+    padding: 0 30px;
+    background: whitesmoke;
+    border-radius: 5px 5px 0 0;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
 }

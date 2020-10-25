@@ -9,7 +9,7 @@ Developed a Javascript driven multiple choise questionaire/quiz that implements 
 - Created basic html layout using 
 - Added Image assets 
 - Added links to JS Scripts and Css stylesheets 
-- Added Sections for Javascript content 
+- Added Sections for imbedding Javascript content 
 - Organized code arrangement of overall html codes so it follows a logical structure
 
 <-- CSS CHANGES -->
@@ -19,8 +19,9 @@ Developed a Javascript driven multiple choise questionaire/quiz that implements 
 
 <-- JAVASCRIPT CHANGES -->
 - Created two separate files to organize Javascript codes
-- Added Css code to make website compatible for different browsers
-- Organized code arrangement of overall CSS codes so it follows a logical structure
+- Added functions to initiate quiz
+- Added functions to monitor time and deducts time if player chooses wrong answer
+- Added funcitions to track score 
 
 
 <p></p>
