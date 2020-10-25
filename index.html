@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Purrformance Review</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <!-- welcome page -->
     <div class="start_btn"><button> Enter Boss Kitty's Office </button></div>
@@ -15,66 +17,71 @@
     <div class="info_box">
         <div class="info-title"></div>
         <div class="info-list">
-            <h1 class="intro">Welcome to Boss Kitty's Office</h1> <br>You have been working as a Junior Developer at Kitty CO for a couple of weeks now 
-            and it's time for your first performance evaluation. Boss Kitty will ask you a series of JavaScript related questions and you will be given 10 seconds to answer each question.
-            Correct answers will be marked in green. Incorrect answers will be marked in red and you will be shown correct answers
-                <p>
-            I hope you came prepared for purrformance review. Boss Kitty did not get his catnip latte today, so he is extremely judgy (More than usual). Good Luck!
-            
-        </div>   
-        
+            <h1 class="intro">Welcome to Boss Kitty's Office</h1> <br>You have been working as a Junior Developer at
+            Kitty CO for a couple of weeks now
+            and it's time for your first performance evaluation. Boss Kitty will ask you a series of JavaScript related
+            questions and you will be given 10 seconds to answer each question.
+            Correct answers will be marked in green. Incorrect answers will be marked in red and you will be shown
+            correct answers
+            <p>
+                I hope you came prepared for purrformance review. Boss Kitty did not get his catnip latte today, so he
+                is extremely judgy (More than usual). Good Luck!
+
+        </div>
+
         <div class="buttons">
-      <button class="quit"> Run Away! </button>
-     <button class="restart"> Continue </button>
+            <button class="quit"> Run Away! </button>
+            <button class="restart"> Continue </button>
+        </div>
     </div>
-    </div>
-        
-  <!-- Quiz Box -->
-  <div class="quiz_box">
-    <header>
-        <div class="title">Purrformance Review</div>
-        <div class="timer">
-            <div class="time_left_txt">Time Left</div>
-            <div class="timer_sec">10</div>
-        </div>
-        <div class="time_line"></div>
-    </header>
-    <section>
-        <div class="que_text">
-            <!-- Here I've inserted question from JavaScript -->
-        </div>
-        <div class="option_list">
-            <!-- Here I've inserted options from JavaScript -->
-        </div>
-    </section>
 
-    <!-- footer of Quiz Box -->
-    <footer>
-        <div class="total_que">
-            <!-- Here I've inserted Question Count Number from JavaScript -->
-        </div>
-        <button class="next_btn">Next</button>
-    </footer>
-</div>
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+        <header>
+            <div class="title">Purrformance Review</div>
+            <div class="timer">
+                <div class="time_left_txt">Time Left</div>
+                <div class="timer_sec">10</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+                <!-- Here I've inserted question from JavaScript -->
+            </div>
+            <div class="option_list">
+                <!-- Here I've inserted options from JavaScript -->
+            </div>
+        </section>
 
-<!-- Result Box -->
-<div class="result_box">
-    <div class="icon">
-        <i class="fas fa-crown"></i>
+        <!-- footer of Quiz Box -->
+        <footer>
+            <div class="total_que">
+                <!-- Here I've inserted Question Count Number from JavaScript -->
+            </div>
+            <button class="next_btn">Next</button>
+        </footer>
     </div>
-    <div class="complete_text">You survived the purrformance review </div>
-    <div class="score_text">
-        <!-- Here I've inserted Score Result from JavaScript -->
+
+    <!-- Result Box -->
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">You survived the purrformance review </div>
+        <div class="score_text">
+            <!-- Here I've inserted Score Result from JavaScript -->
+        </div>
+        <div class="buttons">
+            <button class="restart"> Try Again </button>
+            <button class="quit"> Leave the office </button>
+        </div>
     </div>
-    <div class="buttons">
-        <button class="restart"> Try Again </button>
-        <button class="quit"> Leave the office </button>
-    </div>
-</div>
 
 
     <script src="js/questions.js"></script>
     <script src="js/script.js"></script>
     <script src="js/timer.js"></script>
 </body>
+
 </html>
