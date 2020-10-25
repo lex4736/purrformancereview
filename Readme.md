@@ -34,11 +34,12 @@ Select link below to view live Purrformance Review Quiz
 <p>
 See below for screenshot of Quiz
 <br>
-<b>Main Page</p><br>
 <img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot1.jpg" alt="Code Quiz Main Page">
 <br>
-<b>Preview of unanswered questions</p><br>
-<img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot2.jpg" alt="Code Quiz Questions Sample">
-<br>
-<b>Preview of incorrect answer selected</p><br>
-<img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot3.jpg" alt="Code Quiz Questions Sample">
+<b>Main Page</b><br>
+
+<img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot2.jpg" alt="Preview of unswered quiz">
+<br><b>Preview of unanswered questions</b><br>
+
+<img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot3.jpg" alt="Preview of incorrect answer selected on quiz">
+<b>Preview of incorrect answer selected</b><br>
