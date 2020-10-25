@@ -32,14 +32,13 @@ Developed a Javascript driven multiple choise questionaire/quiz that implements 
 Select link below to view live Purrformance Review Quiz 
 <a href="https://lex4736.github.io/purrformancereview/"> Click here to view webpage </a>
 <p>
-See below for screenshot of Quiz
-<br>
+<b>See below for screenshot of Quiz<b>
+<br><br>
 <img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot1.jpg" alt="Code Quiz Main Page">
-<br>
-<b>Main Page</b><br>
+<br><b>Main Page</b><br><hr>
 
 <img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot2.jpg" alt="Preview of unswered quiz">
-<br><b>Preview of unanswered questions</b><br>
+<br><b>Preview of unanswered questions</b><br><hr>
 
 <img src="https://github.com/lex4736/purrformancereview/blob/master/assets/Screenshot3.jpg" alt="Preview of incorrect answer selected on quiz">
-<b>Preview of incorrect answer selected</b><br>
+<b>Preview of incorrect answer selected</b><hr>
